@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sqflites/db/database.dart';
+import 'package:sqflites/database/database.dart';
 
 import 'model/student.dart';
 
